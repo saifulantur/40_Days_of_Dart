@@ -1,4 +1,4 @@
-# 40_Days_of_Dart
+# 40 Days of Dart
 <!--- [![Build Status](https://github.com/dart-lang/dartdoc/workflows/Test/badge.svg)](https://github.com/dart-lang/dartdoc/actions?query=workflow%3ATest) -->
 [![Dart](https://github.com/dart-lang/setup-dart/workflows/Dart/badge.svg)](https://github.com/dart-lang/setup-dart/actions?query=workflow%3A%22Dart%22+branch%3Amain)
 [![Coverage Status](https://coveralls.io/repos/github/dart-lang/dartdoc/badge.svg?branch=master)](https://coveralls.io/github/dart-lang/dartdoc?branch=master)

@@ -7,4 +7,5 @@ void main(List<String> args) {
   String myString1 = 'Hi $isEqual'; // String interpolation is shortcut.
   String myResult = 'result ${1 + 34 - 4}';
   print(myString);
+  print(myString1);
 }

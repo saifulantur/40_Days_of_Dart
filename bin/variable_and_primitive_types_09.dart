@@ -1,13 +1,14 @@
 void main(List<String> args) {
   String myString = 'Hello'; // non-nullable
   print(myString);
+
   bool result = myString.contains('ello');
   print(result);
 
   int myInt = 5;
   double myDouble = 4.4;
-
   print(myInt.isEven);
+
   num myNumber = 5.5;
 
   bool myBool = false;

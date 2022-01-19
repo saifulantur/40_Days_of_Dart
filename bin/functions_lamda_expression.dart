@@ -1,7 +1,6 @@
 // 1. Lamda Expression
-// Note: A function without a name
-//       also known as Anonymous function or Lamda
-//       a function in dart is an object
+// Note: A function without a name also known as Anonymous function or Lamda
+//       A function in dart is an object
 // I can assign a function to a variable because a function in dart is an object
 
 void main() {

@@ -11,6 +11,7 @@ class User {
   final String firstName;
   final String lastName;
   String? _email;
+
   User({
     required this.firstName,
     required this.lastName,
